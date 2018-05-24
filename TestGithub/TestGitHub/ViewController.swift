@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         print("Test GitHub")
         let leters = Array("qwertyuiopasdfghjklzxcvbnm123456789")
         print("testNewBranch")
+        print("Uraa")
     }
 
     override func didReceiveMemoryWarning() {
