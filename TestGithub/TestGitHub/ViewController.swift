@@ -12,11 +12,13 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        print("Branch1")
     }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         print("Master")
+        print("Branch2")
     }
 
 
