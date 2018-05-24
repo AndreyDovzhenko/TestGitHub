@@ -14,8 +14,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         print("Test GitHub")
-        
-        
+        let leters = Array("qwertyuiopasdfghjklzxcvbnm123456789")
+        print("testNewBranch")
     }
 
     override func didReceiveMemoryWarning() {
