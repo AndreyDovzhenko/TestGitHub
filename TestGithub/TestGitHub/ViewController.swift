@@ -16,7 +16,7 @@ class ViewController: UIViewController {
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
-         print("Master")
+         print("Master2")
     }
 }
 
